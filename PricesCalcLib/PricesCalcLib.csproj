@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\IDatabaseLib\IDatabaseLib.csproj" />
-    <ProjectReference Include="..\PricesCalcLib\PricesCalcLib.csproj" />
   </ItemGroup>
 
 </Project>

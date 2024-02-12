@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketCheckoutLib", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarkedCheckoutLib.Tests", "SupermarkedCheckoutLib.Tests\SupermarkedCheckoutLib.Tests.csproj", "{AEC414EA-9583-4143-A012-A3D7D0076131}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PricesCalcLib", "PricesCalcLib\PricesCalcLib.csproj", "{5E7A8803-B845-4528-91F3-F599A76D9CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDatabaseLib", "IDatabaseLib\IDatabaseLib.csproj", "{A34785AD-FC9C-410A-88CD-AA628697ED99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{AEC414EA-9583-4143-A012-A3D7D0076131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEC414EA-9583-4143-A012-A3D7D0076131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEC414EA-9583-4143-A012-A3D7D0076131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7A8803-B845-4528-91F3-F599A76D9CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7A8803-B845-4528-91F3-F599A76D9CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7A8803-B845-4528-91F3-F599A76D9CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7A8803-B845-4528-91F3-F599A76D9CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34785AD-FC9C-410A-88CD-AA628697ED99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34785AD-FC9C-410A-88CD-AA628697ED99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34785AD-FC9C-410A-88CD-AA628697ED99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34785AD-FC9C-410A-88CD-AA628697ED99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

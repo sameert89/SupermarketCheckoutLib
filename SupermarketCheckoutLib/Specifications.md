@@ -24,7 +24,7 @@
 **When:** The `Price` function is called with the string `"CDBA"`
 **Then:** The output should be `115`, indicating that the total price for one 'C', one 'D', one 'B', and one 'A' with the applicable offers is £115
 
-## Test Case  5: Applying Offers
+## Test Case  5: Same Item Repeats
 **Test Name:** Calculate Total Price with Applied Offers
 **Given:** The input string contains four 'A' items (`"AAAA"`)
 **When:** The `Price` function is called with the string `"AAAA"`
